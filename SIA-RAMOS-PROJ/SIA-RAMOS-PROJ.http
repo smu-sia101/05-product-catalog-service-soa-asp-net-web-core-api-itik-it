@@ -1,0 +1,6 @@
+@SIA_RAMOS_PROJ_HostAddress = http://localhost:7028
+
+GET {{SIA_RAMOS_PROJ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
