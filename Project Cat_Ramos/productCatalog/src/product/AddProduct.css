@@ -1,0 +1,17 @@
+/* AddProduct.css */
+.addproduct-container {
+    display: flex;
+    
+  }
+  
+  .addproduct-sidebar {
+    width: 250px;
+    flex-shrink: 0;
+  }
+  
+  .addproduct-content {
+    flex: 1;
+    padding: 100px;
+    background-color: white;
+  }
+  

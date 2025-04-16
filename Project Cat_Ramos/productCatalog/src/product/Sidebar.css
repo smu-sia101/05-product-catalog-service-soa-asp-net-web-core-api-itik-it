@@ -1,0 +1,34 @@
+.sid{
+    position: fixed;
+    width: 225px;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: black;
+    gap:20px; 
+    font-size:30px ;
+    color: white;
+}
+.tab{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.tab a:hover{
+    background-color: #555;
+    color: white;
+}
+  
+.tab a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
